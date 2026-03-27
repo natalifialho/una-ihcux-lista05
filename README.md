@@ -40,4 +40,4 @@ Durante o desenvolvimento, foram aplicadas heurísticas para melhorar a interaç
 * Experiência simples e direta para o usuário
 
   ## 📸 Evidência de Execução
-![Print do terminal rodando o projeto](print.png)
+![Print do terminal rodando o projeto](imprimir.png)
