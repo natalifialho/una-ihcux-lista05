@@ -25,7 +25,6 @@ Durante o desenvolvimento, foram aplicadas heurísticas para melhorar a interaç
 * Sistema funcionando corretamente
 * Execução via terminal com sucesso
 * Conversão de valores realizada corretamente
-<img width="437" height="278" alt="PRINT" src="https://github.com/user-attachments/assets/daee5c76-6f21-4a91-8d1c-4f85cbb178ae" />
 
  Prevenção de Erros
 
@@ -42,3 +41,4 @@ Durante o desenvolvimento, foram aplicadas heurísticas para melhorar a interaç
 
   ## 📸 Evidência de Execução
 ![Print do terminal rodando o projeto](imprimir.png)
+<img width="437" height="278" alt="PRINT" src="https://github.com/user-attachments/assets/daee5c76-6f21-4a91-8d1c-4f85cbb178ae" />
